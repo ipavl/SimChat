@@ -1,0 +1,25 @@
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\bin\Debug\SimChat.exe
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\bin\Debug\SimChat.pdb
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\bin\Debug\SimChat.xml
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\obj\x86\Debug\SimChat.SimChat.resources
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\obj\x86\Debug\SimChat.Resources.resources
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\obj\x86\Debug\SimChat.exe
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\obj\x86\Debug\SimChat.xml
+C:\Users\Ian\AppData\Local\Temporary Projects\SimChat\obj\x86\Debug\SimChat.pdb
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\obj\x86\Debug\SimChat.exe
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\obj\x86\Debug\SimChat.xml
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\obj\x86\Debug\SimChat.pdb
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\bin\Debug\SimChat.exe
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\bin\Debug\SimChat.pdb
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\bin\Debug\SimChat.xml
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\obj\x86\Debug\SimChat.SimChat.resources
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\obj\x86\Debug\SimChat.Resources.resources
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\documents\visual studio 2010\Projects\SimChat\SimChat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SimChat\SimChat\obj\x86\Debug\SimChat.exe
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SimChat\SimChat\obj\x86\Debug\SimChat.xml
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SimChat\SimChat\obj\x86\Debug\SimChat.pdb
